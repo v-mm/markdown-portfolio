@@ -1,1 +1,1 @@
-Github Slideshow (https://github.com/v-mm/github-slideshow)
+[Github Slideshow](https://github.com/v-mm/github-slideshow)
